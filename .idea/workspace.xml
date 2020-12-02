@@ -2,13 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fa1b324-74c2-4fba-829c-fbb41aed8828" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app-header/app-header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app-header/app-header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/app.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app/css/app-header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app-header/app-header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app/css/post-add-form.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/post-add-form/post-add-form.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app/css/post-list-item.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/post-list-item/post-list-item.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app/css/post-list.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/post-list/post-list.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app/css/post-status-filter.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/post-status-filter/post-status-filter.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app/css/search-panel.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/search-panel/search-panel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/post-add-form/post-add-form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/post-add-form/post-add-form.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/post-list-item/post-list-item.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/post-list-item/post-list-item.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/post-list/post-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/post-list/post-list.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/post-status-filter/post-status-filter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/post-status-filter/post-status-filter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/search-panel/search-panel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/search-panel/search-panel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +45,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -53,7 +66,11 @@
       <recent name="$PROJECT_DIR$/src/components/app" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/components/app" />
+      <recent name="$PROJECT_DIR$/src/components/search-panel" />
+      <recent name="$PROJECT_DIR$/src/components/post-status-filter" />
+      <recent name="$PROJECT_DIR$/src/components/post-list-item" />
+      <recent name="$PROJECT_DIR$/src/components/post-list" />
+      <recent name="$PROJECT_DIR$/src/components/post-add-form" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -64,11 +81,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606837248765</updated>
-      <workItem from="1606837250533" duration="8671000" />
+      <workItem from="1606837250533" duration="11040000" />
+      <workItem from="1606894024352" duration="11809000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
   </component>
 </project>
